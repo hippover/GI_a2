@@ -1,0 +1,10 @@
+
+Info on Genscan
+How to run it: http://genes.mit.edu/README
+What the output means: http: //genome.crg.es/courses/Bioinformatics2003_genefinding/results/genscan.html
+
+Infos on analysing genscan output with genome browser:
+http://bix.ucsd.edu/bioalgorithms/problems/03_asmt.htm
+http://public.callutheran.edu/~revie/molbiol/AnnotationOtherPrograms.pdf
+
+
