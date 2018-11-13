@@ -1,4 +1,4 @@
-setwd('/home/ldm41/GenomeInformatics/a2/GI_a2/')
+setwd('/local/data/public/g1/')
 Dmel_n<-'Drosophila_melanogaster.BDGP6.cdna.all.fa'
 Dmel_p<-'Drosophila_melanogaster.BDGP6.pep.all.fa'
 Dsim<-'dsim-all-chromosome-r2.02.fasta'
