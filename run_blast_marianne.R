@@ -25,8 +25,8 @@ bl_dr<-'/local/data/public/genome_informatics_2018/programs/ncbi-blast-2.5.0+/bi
 # print("dsim p alignment done")
 
 #Dere
-out_ere_n<-system(paste0(bl_dr,'blastn -db dere_db -query ',Dmel_n,' -out out_ere_n -outfmt 6'),intern=T)
-print("dere n alignment done")
+#out_ere_n<-system(paste0(bl_dr,'blastn -db dere_db -query ',Dmel_n,' -out out_ere_n -outfmt 6'),intern=T)
+#print("dere n alignment done")
 out_ere_p<-system(paste0(bl_dr,'tblastn -db dere_db -query ',Dmel_p,' -out out_ere_p -outfmt 6'),intern=T)
 print("dere p alignment done")
 
