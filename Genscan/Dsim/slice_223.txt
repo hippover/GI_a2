@@ -1,0 +1,892 @@
+GENSCAN 1.0	Date run: 13-Nov-118	Time: 12:57:45
+
+Sequence 19980000:20080000 : 100001 bp : 47.96% C+G : Isochore 2 (43 - 51 C+G%)
+
+Parameter matrix: HumanIso.smat
+
+Predicted genes/exons:
+
+Gn.Ex Type S .Begin ...End .Len Fr Ph I/Ac Do/T CodRg P.... Tscr..
+----- ---- - ------ ------ ---- -- -- ---- ---- ----- ----- ------
+
+ 1.01 Intr +   4574   4798  225  0  0   54    9   228 0.905   9.46
+ 1.02 Intr +   6203   6340  138  0  0   65   56    87 0.341   3.64
+ 1.03 Intr +   6638   6771  134  0  2  100   13    83 0.525   2.36
+ 1.04 Intr +   8526   8632  107  2  2   68   12   122 0.429   1.61
+ 1.05 Intr +  11349  11452  104  0  2   61   74    76 0.289   3.32
+ 1.06 Intr +  12071  12105   35  0  2   47   94    71 0.472   1.54
+ 1.07 Intr +  14216  14382  167  1  2   84  105   287 0.532  28.76
+ 1.08 Intr +  14439  14589  151  0  1   88  101   287 0.932  30.16
+ 1.09 Intr +  14747  15092  346  1  1   39   81   382 0.762  27.57
+ 1.10 Intr +  15154  15269  116  2  2   39   92    68 0.359   2.47
+ 1.11 Intr +  17269  17312   44  0  2   49   56    51 0.576  -4.96
+ 1.12 Intr +  17669  17924  256  2  1   71   32   160 0.369   6.15
+ 1.13 Intr +  19567  19639   73  0  1   75  115   156 0.999  15.98
+ 1.14 Intr +  22741  22924  184  2  1   70  100   419 0.999  40.15
+ 1.15 Intr +  23271  23418  148  0  1   69  101   401 0.999  39.74
+ 1.16 Intr +  23487  23965  479  2  2   52  115   635 0.574  54.45
+ 1.17 Intr +  24293  24391   99  2  0   94  108   157 0.999  17.53
+ 1.18 Intr +  24556  25082  527  1  2   49  101   782 0.971  68.19
+ 1.19 Intr +  25315  25632  318  2  0   85   45   494 0.083  40.73
+ 1.20 Term +  29028  29209  182  1  2   70   37   198 0.008  10.67
+ 1.21 PlyA +  30670  30675    6                              -0.45
+
+ 2.03 PlyA -  30695  30690    6                               1.05
+ 2.02 Term -  31514  31066  449  0  2   27   45   376 0.990  22.58
+ 2.01 Init -  31610  31532   79  2  1   55   19   144 0.515   5.42
+ 2.00 Prom -  31684  31645   40                              -6.36
+
+ 3.00 Prom +  32621  32660   40                              -4.46
+ 3.01 Init +  32910  33021  112  2  1   60   65    62 0.213   0.58
+ 3.02 Intr +  36991  37148  158  2  2    6   57   197 0.330   8.13
+ 3.03 Term +  37345  37719  375  0  0   71   44   619 0.280  50.54
+ 3.04 PlyA +  37792  37797    6                              -3.24
+
+ 4.05 PlyA -  38037  38032    6                              -0.45
+ 4.04 Term -  38364  38208  157  2  1   43   44   204 0.577   8.91
+ 4.03 Intr -  39682  39466  217  2  1   14   36   115 0.228  -3.54
+ 4.02 Intr -  40756  40612  145  1  1   35   53   310 0.613  22.06
+ 4.01 Init -  40859  40812   48  2  0   58   76   -11 0.921  -4.35
+ 4.00 Prom -  41157  41118   40                              -5.06
+
+ 5.00 Prom +  41446  41485   40                              -9.85
+ 5.01 Init +  41716  42025  310  0  1   45   82   262 0.986  18.84
+ 5.02 Intr +  43621  43733  113  2  2   57  109   150 0.454  14.10
+ 5.03 Intr +  44458  45387  930  0  0  -29   70  1121 0.450  90.01
+ 5.04 Intr +  45920  45976   57  1  0   66  121    66 0.990   6.78
+ 5.05 Intr +  46047  46252  206  2  2   64   90   408 0.861  36.60
+ 5.06 Intr +  46447  46506   60  1  0  112  105   -10 0.570   0.95
+ 5.07 Intr +  46580  46634   55  2  1   39   89    67 0.863   0.88
+ 5.08 Intr +  46756  46854   99  0  0   90   89   127 0.998  13.31
+ 5.09 Intr +  47000  47110  111  1  0   90  119   274 0.999  31.28
+ 5.10 Intr +  47184  47353  170  2  2   38  109   340 0.999  29.84
+ 5.11 Intr +  47423  47633  211  2  1   23   16   275 0.793  12.72
+ 5.12 Intr +  48935  49033   99  1  0   65   98   107 0.583   9.71
+ 5.13 Intr +  49091  49339  249  1  0   19  109   473 0.441  40.13
+ 5.14 Intr +  49401  49623  223  2  1  109   92   343 0.999  34.50
+ 5.15 Intr +  49688  49845  158  0  2   72   95   381 0.999  36.93
+ 5.16 Intr +  49904  50174  271  1  1   13   70   505 0.700  38.31
+ 5.17 Intr +  50236  50351  116  2  2   72   68   346 0.992  31.17
+ 5.18 Intr +  52671  52748   78  2  0   66   92    84 0.826   6.35
+ 5.19 Intr +  53193  53611  419  2  2   39   23   861 0.842  67.52
+ 5.20 Intr +  53676  54206  531  0  0   34   96   933 0.999  80.74
+ 5.21 Term +  54266  54452  187  2  1   96   38   164 0.908   9.16
+ 5.22 PlyA +  54711  54716    6                               1.05
+
+ 6.00 Prom +  54724  54763   40                              -8.06
+ 6.01 Init +  55031  55317  287  1  2   95   -7   344 0.520  22.15
+ 6.02 Term +  55359  55842  484  0  1   87   39   490 0.974  38.22
+ 6.03 PlyA +  56231  56236    6                               1.05
+
+ 7.03 PlyA -  56305  56300    6                              -1.75
+ 7.02 Term -  56566  56391  176  2  2   94   48   313 0.999  25.82
+ 7.01 Init -  56996  56627  370  2  1   21   89   698 0.525  60.36
+ 7.00 Prom -  57208  57169   40                              -3.46
+
+ 8.00 Prom +  57976  58015   40                              -8.16
+ 8.01 Init +  58344  58484  141  2  0  101   89    74 0.966   8.93
+ 8.02 Intr +  58643  58774  132  1  0   92   36   143 0.988  10.34
+ 8.03 Intr +  58842  58924   83  2  2   75  117   136 0.913  13.64
+ 8.04 Intr +  59877  60314  438  0  0  -24   56   784 0.117  56.63
+ 8.05 Intr +  60532  60736  205  1  1   57 -144   353 0.265   8.20
+ 8.06 Intr +  60796  60909  114  0  0   97   94   143 0.407  16.44
+ 8.07 Intr +  60972  61059   88  2  1   58   90   157 0.599  12.44
+ 8.08 Intr +  61134  61233  100  1  1   72   82    51 0.737   2.07
+ 8.09 Term +  61290  61593  304  0  1   51   52   535 0.879  40.84
+ 8.10 PlyA +  62187  62192    6                               1.05
+
+ 9.06 PlyA -  62395  62390    6                              -4.73
+ 9.05 Term -  63090  62464  627  0  0   -6   48   303 0.999  11.26
+ 9.04 Intr -  64007  63144  864  2  0   37  119  1227 0.997 112.25
+ 9.03 Intr -  64374  64186  189  0  0   11   75   314 0.997  22.18
+ 9.02 Intr -  65308  64433  876  1  0   46  101   577 0.976  46.33
+ 9.01 Init -  65354  65352    3  2  0   60   49     0 0.995  -6.70
+ 9.00 Prom -  65477  65438   40                             -13.70
+
+10.00 Prom +  65544  65583   40                             -15.15
+10.01 Sngl +  65694  66758 1065  2  0   53   35  1207 0.999 109.05
+10.02 PlyA +  66760  66765    6                              -4.73
+
+11.06 PlyA -  66782  66777    6                              -5.41
+11.05 Term -  66836  66789   48  2  0  -64   45   -68 0.736 -29.00
+11.04 Intr -  67833  66851  983  1  2   69  109  1040 0.726  94.84
+11.03 Intr -  68709  68010  700  0  1   42  106   874 0.952  75.65
+11.02 Intr -  69194  68766  429  2  0   17  121   649 0.423  55.01
+11.01 Init -  69246  69238    9  0  0   84   77    12 0.999  -0.49
+11.00 Prom -  69311  69272   40                              -7.36
+
+12.00 Prom +  69571  69610   40                             -11.33
+12.01 Init +  69776  69912  137  1  2   31  103    57 0.713   1.05
+12.02 Intr +  69976  70082  107  1  2   29   49   127 0.979   2.76
+12.03 Term +  70158  70492  335  1  2   53   44   519 0.998  38.77
+12.04 PlyA +  70561  70566    6                               1.05
+
+13.04 PlyA -  71366  71361    6                              -3.74
+13.03 Term -  71790  71515  276  0  0   93   55   559 0.999  48.56
+13.02 Intr -  72141  71849  293  1  2   67  109   669 0.999  63.75
+13.01 Init -  72415  72352   64  1  1   93   92   103 0.999  12.51
+13.00 Prom -  72722  72683   40                              -6.96
+
+14.00 Prom +  73698  73737   40                              -8.76
+14.01 Init +  74162  74204   43  1  1   79  113    38 0.998   6.00
+14.02 Term +  74479  76745 2267  2  2   98   48  3030 0.997 285.38
+14.03 PlyA +  76911  76916    6                               1.05
+
+15.02 PlyA -  76947  76942    6                               1.05
+15.01 Sngl -  78295  77015 1281  1  0   13   38  1719 0.974 155.36
+15.00 Prom -  78406  78367   40                             -16.80
+
+16.00 Prom +  78411  78450   40                              -9.55
+16.01 Init +  78640  79963 1324  0  1   75   66  2949 0.862 282.98
+16.02 Term +  80118  80314  197  1  2  108   47   207 0.991  16.17
+16.03 PlyA +  80467  80472    6                               1.05
+
+17.10 PlyA -  80737  80732    6                              -3.44
+17.09 Term -  80864  80749  116  0  2   96   29    18 0.929  -4.57
+17.08 Intr -  81192  80905  288  1  0   53  101   730 0.216  68.02
+17.07 Intr -  82772  82583  190  2  1   23   41   137 0.086   1.66
+17.06 Intr -  85596  85475  122  1  2   76   34   115 0.223   5.11
+17.05 Intr -  88243  88153   91  1  1   46   82    72 0.884   1.97
+17.04 Intr -  88406  88376   31  1  1   85   78    42 0.502   1.03
+17.03 Intr -  89744  89582  163  0  1   72   -1   156 0.007   4.13
+17.02 Intr -  90603  90444  160  0  1  -15   61   177 0.009   4.26
+17.01 Init -  91562  90618  945  2  0   53   -9  1640 0.008 144.41
+17.00 Prom -  91699  91660   40                              -8.76
+
+18.00 Prom +  91706  91745   40                              -5.96
+18.01 Init +  92409  92435   27  2  0   80   50    38 0.220  -2.84
+18.02 Intr +  93019  93174  156  0  0   67  -51   191 0.223   3.31
+18.03 Intr +  93921  94105  185  2  2  112  -12   312 0.791  22.19
+18.04 Term +  94260  94473  214  0  1   33   37   219 0.793   8.00
+18.05 PlyA +  96926  96931    6                              -0.45
+
+19.03 PlyA -  97822  97817    6                               1.05
+19.02 Term -  99374  99258  117  2  0   52   37   113 0.561   1.14
+19.01 Init -  99892  99764  129  1  0   24   55   138 0.319   2.27
+
+Predicted peptide sequence(s):
+
+Predicted coding sequence(s):
+
+
+>19980000:20080000|GENSCAN_predicted_peptide_1|1277_aa
+XVERPSDWLRTSSGNECELERATIPFVRFERPFRQHLGMLQQLVAIAVRWCRCLIRQFLV
+RYSDRFELSSERDEFHDSKRNYNVKKICLFNREIAEIRGEFETGELPFGFLAFQFAGEPL
+KGLSAIRFQSGMHLHRQLHPIPISISISISISISISSRLLQFNKTLLIKLLIGFFQYSCR
+LRKTIANRKTKCEFARARTEYLTLSSGSNILILFAGSALHSFASGLSHYGFPSGRSEING
+TAVSPADQSHGDRTDDEMRDCDSVDGEHHQLSAKAAIAARLSHTVSGGGGSFASPEPQTE
+LPLSHHHQLPPNHPLNALGSFMGIGGLHSIPNLQHSDVLEKLKMQVRDMKVGLMEQDYAA
+AAHAAAFGANMLPTTISSGFPLPHNSVAFGHVTSAPSGGNGSSYNGGTTPTNSSNSNAAT
+NGGGTAGPGGTGGSGGGGAGGGGGGGGGAGVGGHQFSFASPTAAPSGKEARHFAANSASN
+SSTSSEASNSSQQNNGWSFEEQFKQVRQRYLYLYPKQRLENDVSRKTCVCSGSGSSIFDS
+YKNDYDWSTATVAGDRILVCRFYNFIATDLGEILVALNGFAAAVMQVRDRNSGEILENGA
+QAGLLATLLYEINDDPKRKEFLDDLFSFMQKRGTPINRLPIMAKSVLDLYELYNLVIARG
+GLVDVINKKLWQEIIKGLHLPSSITSAAFTLRTQYMKYLYPYECEKKNLSTPAELQAAID
+GNRREGRRSSYGQYEAMHNQMPMTPISRPSLPGGMQQMSPLALVTHAAVANNQQAQAAAA
+AAAAHHRLMGAPAFGQMPNLVKQEIESRMMEYLQLIQAKKEQGMPPVLGANHPHQQQHSQ
+QQQHHHQQQQQSQQQHHLQQQRQRSQSPDLSKHEALSAQVALWHMYHNNNSPPGSAHTSP
+QQREALNLSDSPPNLTNIKREREREPTPEPVDQDDKFVDQPPPAKRVGSGLLPPGFPANF
+YLNPHNMAAVAAAAGFHHPSMGHQQDAASEGEPEDDYAHGEHNTTGNSSSMHDDSEPQQM
+NGHHHHHQTHHLDKSDDSAIENSPTTSTTTGGSVGHRHSSPVSTKKKGGSKPQSGGKDLP
+AEDKDASSSGKLNPLETLSLLSGMQFQVARNGTGDNGEPQLIVNLELNGVKYSGVLVANV
+PLSESETRTSSPCHAEAPTAEEEKDEEEEEPKAAEEESHRSPVKQENEDADQDMEGSEVL
+LNGGASAVGGAAAGVGVGQVMPLPMTVSSPSMRTPIRMPPLSAELLVSQHLAGMQQACCI
+CICARACIRAPIRIRIC
+
+>19980000:20080000|GENSCAN_predicted_CDS_1|3834_bp
+ncggtggaacggccatccgattggctgcgaacgagttcggggaacgagtgcgaattggaa
+cgtgctacaattccattcgttcgatttgaacggccgttccggcaacatttgggaatgttg
+cagcaacttgttgctattgctgtgagatggtgtcggtgtcttattcgccagtttcttgtt
+cgctactcagaccgatttgaactttcgagtgaacgagacgagttccatgattcaaaacgt
+aattataatgttaaaaaaatatgtttattcaatcgggagattgcggagattcgaggggaa
+ttcgaaacgggggagctgccttttggctttttggcgtttcagtttgccggagagccgtta
+aaaggcctttcggccattcgctttcagtcaggtatgcaccttcatcgccagctccatccc
+atccccatctccatatccatctccatatccatctccatctccatctcgtcgcgacttctt
+caattcaataaaactcttctaataaaactgttaattggatttttccagtacagctgccga
+ttgcgaaaaacgatcgcgaatcgcaaaacaaaatgcgaatttgcgagggcacgaaccgag
+tatctgactctctcttctggtagcaatatcctgatcctgtttgccggcagcgcccttcac
+agcttcgcttctggattgtcgcattatgggtttccgagcggtcgcagcgaaattaatgga
+actgccgtgtcccccgccgaccagtcacatggtgatcgaacggacgacgagatgcgcgac
+tgcgactccgtggatggggagcatcatcagctgagcgccaaggcggcgattgcagcccgc
+ctgagtcacacagtttccggcggcggaggaagcttcgccagccccgaaccgcagaccgag
+ctgcccctgagccatcaccatcaactgccgccgaatcatccgctcaacgctctgggcagc
+ttcatgggcatcggcggactacacagcattccaaatctccagcacagcgacgtgctcgag
+aagctcaagatgcaggtgcgcgacatgaaggtgggcctgatggaacaggactacgctgcc
+gcagcacatgccgctgctttcggggccaacatgctgcccacgacgatcagctcgggcttc
+ccactgccccacaactcggtggcctttggccacgtcacatcggcgcccagcggtggaaat
+gggagcagctacaacggaggcaccacccccacgaacagctccaatagcaatgcggccacc
+aatggaggcggcaccgccggacctggaggaacaggaggatcgggtggcggaggagcagga
+ggaggtggaggcggcggaggaggcgcaggagtgggtggccaccagttctcgttcgcatcc
+cccacagcagcgccgagcggcaaagaagcccgccactttgcagccaattccgcatcgaac
+tcgtcgacgtccagcgaggcttccaattcatcgcagcagaataatggatggagctttgaa
+gagcagttcaaacaagtcagacagcggtatctgtatctgtatccgaagcagcggctagaa
+aacgatgtatcccggaaaacatgtgtgtgctcaggcagcggcagcagcatcttcgatagt
+tataaaaacgattatgattggtctacggcaaccgtggcaggggatagaattctcgtttgc
+cggttttataactttattgctacggatttgggagagatattggtagcgcttaacggtttt
+gcggctgctgtgatgcaagttagggatcgaaattcgggagagatattggaaaatggggca
+caggcaggtttgcttgcaacccttctctacgaaatcaatgatgaccccaagcgcaaagag
+ttcctggacgacttgttctcgtttatgcaaaagcgcggaactccgatcaatcggctgccg
+atcatggccaagtcggtgctggatctctacgagctgtacaatctggtgatagcccgcggc
+ggcttggtggatgttatcaacaagaagctgtggcaggagatcatcaaggggctgcacctg
+ccctccagcatcaccagtgccgccttcaccctgcgcacccaatacatgaagtatctgtac
+ccgtacgagtgcgagaagaagaacctgagcacgccggcggagctgcaggcggccatcgat
+gggaatcgccgggaaggacgccgctccagctacggccagtacgaggccatgcacaaccag
+atgccgatgacgcccatttcgcgaccctccctgcccggtggcatgcagcaaatgtcgccg
+ctggcactggtcacccatgccgcggtggccaacaatcagcaggctcaggccgccgctgct
+gccgccgcagctcatcaccgcctgatgggcgctcccgcctttggccagatgcccaacctg
+gttaagcaggagatcgagagccggatgatggagtatctgcagctgatccaggccaagaag
+gagcagggcatgccgccagtcctgggcgccaaccatccccaccagcagcagcactcacag
+cagcagcagcatcaccaccagcagcagcagcagtcgcagcagcaacaccacctgcagcag
+cagcgccagcggtcgcagagtccggatctgagcaagcacgaggcactcagtgctcaggtg
+gccctgtggcacatgtaccacaacaacaacagcccaccgggatcggcacacacctcgccg
+cagcaacgcgaagccctgaacctgtccgactcgcctccaaatctcacaaatatcaagcgg
+gaacgcgaacgggaacccactccagagcccgtggaccaggatgacaaatttgtggaccag
+ccgcctccagcgaagcgcgtgggcagtggcctccttccgcccggctttcccgccaacttt
+tacctgaatccacacaacatggccgctgtggcagcagctgcgggattccatcacccatcc
+atgggccaccagcaggatgccgcatccgagggcgagccagaggacgactacgcccacggc
+gagcacaataccacgggcaactcgtcctccatgcacgacgacagcgaaccacagcagatg
+aacggacaccaccaccaccaccagacccaccatctggacaagtccgacgactcggccatt
+gagaactcacccaccacatcgaccaccaccggtgggtcggtgggtcatcgtcacagttcg
+cccgtttccaccaagaaaaagggcggctccaagccccagagtggagggaaggatctgccg
+gccgaggacaaggatgcgtcgtccagtggcaagctcaatcccctcgagacgctgagcctg
+ctgtccggaatgcagtttcaagtggcaaggaatggaactggcgataacggcgaaccgcag
+ctgattgtcaatctggagcttaatggcgtcaagtactcgggagtgctggtggccaatgtg
+ccgctgtccgaaagcgagacaaggacgagctcaccctgccacgccgaagcaccgacagcc
+gaggaggagaaggatgaggaggaggaggagccgaaagccgctgaagaggaatcgcatcga
+tcgccagttaaacaggagaacgaggatgccgaccaggacatggagggcagcgaagtcctt
+ctgaacggaggcgcctcggcggtgggtggtgctgctgctggtgtgggtgtgggccaggtg
+atgccgctgccgatgaccgtttcatccccctcgatgcggactccgattcggatgccaccc
+ttatcggcggagcttttggtatctcaacatttggcgggcatgcaacaagcgtgttgtatc
+tgtatctgtgcccgtgcctgtatccgtgctcctatccgtatccgcatctgttag
+
+>19980000:20080000|GENSCAN_predicted_peptide_2|175_aa
+MIVDYCGHGDNRIFGGQRVVQRVLLGEFRTLLGAAGGEWSGEQNAQDFDSRDSAAIRVAI
+RNPQSAVRYSRSPIDDGCLSKQNVKLISRSAIRYDTKLSRNRSRSRNNGNGRPEEREHTE
+ESRGRKLKLKQSLRYKFVRVPVRVRIRIRMRVRMPNASDKRRSRVSVSALGSERI
+
+>19980000:20080000|GENSCAN_predicted_CDS_2|528_bp
+atgattgtcgattattgcggccacggagataaccgaattttcggcggtcagcgggtggtg
+caacgtgtgctcttgggtgaattcagaactctgctcggggcggccggcggcgagtggagt
+ggagagcagaacgcccaagatttcgattcacgagattcagccgcgatccgcgtcgcgatc
+cgcaatccgcagtccgctgtccgctattcacgatctccgatcgacgacggttgcttgtca
+aagcaaaacgtcaaactgatttctcgctcagcgatacgctacgatacgaaactcagcaga
+aacagaagcagaagcagaaacaatggcaatggcaggccagaagaacgcgaacacacagaa
+gaatcgcggggaagaaaactaaaactaaaacaatctctgagatacaaattcgtgcgagtg
+ccagtacgagttcgaatccgaatccgaatgcgagtccgaatgccgaatgcgagcgacaag
+cgacgatcgcgagtatctgtatctgcacttggctccgaaagaatctga
+
+>19980000:20080000|GENSCAN_predicted_peptide_3|214_aa
+MWQWFLFSLYFGHIPRGLAHFVDYLMAPNDMSMIMSTVSPLAISQSISRPQPKNVSIMLS
+PATTTSSRIESIEPEQQQPQEGSRTAQDEGTGERGSLPLDASEKDESRLFCIKLRRSRLR
+RCSCGGVTLQPPSDGNGSTAGDNLCGQVLLNPLQTKSEADYEKVTQCARPEPPYSRCSLL
+VFHQLSTGKKDSIVTVAALGNFTHSVVRRATGSK
+
+>19980000:20080000|GENSCAN_predicted_CDS_3|645_bp
+atgtggcagtggtttctatttagtctctatttcggccacatcccgcgtggactggcccat
+ttcgtcgattatctaatggctcccaacgatatgagcatgattatgagtacggtatctccg
+ctggccatcagtcaatcaatcagcagaccgcagcccaaaaatgtttcaattatgttatcg
+ccagcaacaacgacatcgtccagaatcgaaagcatcgaaccagagcagcagcaaccacaa
+gaaggcagccgcactgcccaggacgaaggaaccggcgaacgaggatccctgccgctggac
+gcctctgaaaaggacgagagccgcctcttctgcatcaagctccggcgcagccgcctgcgc
+cgctgcagctgtgggggcgtgaccttgcagccccccagcgacgggaacggcagcacggcc
+ggagacaacctgtgcggccaggtgctcctcaatccgctgcagaccaagagcgaggccgac
+tacgaaaaggtaacccaatgcgctcggccagagcccccgtactcccggtgttcacttctt
+gtcttccaccagctgagcaccggcaaaaaggactcgattgtgacggtggccgccctgggc
+aacttcacacacagcgtggtgcgacgggccactggaagtaagtag
+
+>19980000:20080000|GENSCAN_predicted_peptide_4|188_aa
+MELNASRTGRNVRSNPRQWTASTDCDCDDGAGDCDGDGDGDGDCECALRQKLTVVLLAIR
+EILLDSDSDSEREVRVRRTAMPISLSFCSYTAAVRDWQKTRYCHVNFCILIEAFSQGVIR
+ATYSHQWVKNGALDWGSISYDSHLSRLEHRKSSENLKKRKRATASEIPIDKHYYEYYQTA
+ERNLLTVE
+
+>19980000:20080000|GENSCAN_predicted_CDS_4|567_bp
+atggaattaaacgcgagccggactgggcgaaacgtccgttctaatccgaggcagtggact
+gcgagcaccgactgcgactgcgatgatggcgctggcgactgcgatggcgacggcgatggc
+gatggtgactgcgaatgtgcgctgcggcaaaagctaacggttgtgctgttggcaatccgt
+gagatacttttggattcagattcagattcagaaagagaagtgcgagttcgtcgtactgcg
+atgccgatctcgctctccttctgttcttatacggctgctgtgcgcgactggcagaaaacc
+agatattgtcatgtgaatttttgcatattaattgaggctttttcacagggcgttattcgg
+gcaacctactcccatcaatgggtcaaaaatggggctctggattgggggagcattagttat
+gacagccacttgagtagattggagcatcgtaaatcatcagaaaatctgaagaaaaggaaa
+cgtgcaactgcttctgagattcccattgataagcactactacgagtactatcaaacagca
+gagcggaacctcttgacggtggagtag
+
+>19980000:20080000|GENSCAN_predicted_peptide_5|1550_aa
+MIISSQPNLAGSATTTTTTTITSAHVSQEGSMPLPLPVPVTIPLPNAGTCNCGAVGVGMG
+MALGARQCPSPALDPTTATATPTSTTPGRDSLTRPASESELNVGTGTSGTSSSGGNSRPG
+HRKSSLALALTPEDEPMDVYQWPVVVVECWFIISRMRNCLPKFSKVFRRKSSAKSSSSSA
+GRENPSNEPDSDTEPYAVAIAAISDRSGDNRNERPRPLPDDDSTRSRLISAAHLDLDLGL
+ELDSNSTAVTTNGGLRPKSEGSCPEMKVETISAATSPPPPRPLHGTPGPVAISLPFVGRN
+SSKTPEEMELEYEANVEAESRDIMTPLRRNTRPLSVSFGGGGGGVGGGRSALQPEIVEAI
+RSLDVPALRLNNLSFDGSTDQKGERSRAEEEPLTPDHDHEDSVVLRRKVICLERKAHSLY
+ERRLPRVPKLHLLVAGKKGPPTEEEEFRTFQRNLMDLKYPTVLPPNPPLKALLVFHKSDS
+ICEAITAACQRHQLDVTLVKSKEEALDTLQKSYATAQCYHLIIIDARSSKNLDAEHIART
+IRHTHGHHLTTIIAVCKKSFFEKDDVLIALLDAGVNRCVAETTNLAMCSVELKQILHSII
+RPHNVMSTQQALYTALHRLKEVVLITDDLLRIQYANRATERLLNMRLDEIISKQLEDIFV
+SDLSTISEQCKNIKEFDGILTVRRKSQEGIPMHVRVVPVACIGSAPTHLIFNFDVPGGQM
+DFIATLPQPKDAPRGSLHSVRRCSFDVRSIASDGLRRTSLAKLTSLPLEAPITKGPSVYS
+SRRSSNDSIIRTGSSTRTAAIVPAKMKSNPIIMELLDESLSWDFDIFKLEEITDYHPLLY
+LGMEMFRRFDVFATLNIDENVCKAWLAVIEAHYRKSNTYHNSTHAADVMQATGAFITQLT
+NKDMLVMDRMEEATALIAAAAHDVDHPGRSSAFLCNSNDALAVLYNDLTVLENHHAAITF
+KLTLGDDKINIFKNLDKETYKSARSTIIDMILATEMTRHFEHLAKFVSVFGGEEPRDHNP
+QTDEETSILMRRMLIKVADVSNPARPMQFCIEWARRIAEEYFMQTDEEKQRHLPIVMPMF
+DRATCSIPKSQIGFIEYIIQDMMHAWESFIDMPQLITYMQINYSQWKKYDEQGVNTLTEI
+MAKQPPLMAGILPTRRLPKSVFLISPGRRDRKRLMRFQLPSRSGRSIVRPLEPPTHPVSK
+MPQSSFFAKSVPFEQIDKLAISGGYSSIFASSKPSVPVVGNWEQRFCRLADTFQPVLDRV
+YDFEVREDDVWIVTLPKCGTTWMQELAWLVINECDFETAKSVDLTHRSPFLEFNGVVPNV
+PHDTIAAANALPSPRLIKSHLPAWMLPRQIWSKRPKIIYVYRNPKDAAISYFHHWRGMVG
+YQGTKSDFMHSFIDGYVNFTPCWPHILDFWQLRHEPNIFFTSYERMKGQLGQVISEVAQF
+LERSVSQEQIQQMQRHLSFESMRDNPACNHVKEFESMKAAAGREVEEFRFVRRGVVGSHK
+DELTADIIREFDLWSDWEGRGDNVRGNSYVLSHFATTSEPTYAGFQIEHG
+
+>19980000:20080000|GENSCAN_predicted_CDS_5|4653_bp
+atgataatttccagccagccgaatttggctggatcggcgacgaccacgaccaccaccacc
+atcaccagtgcccatgtgagccaggagggttccatgccactgccgctgcccgttcccgta
+accattcccctgcccaacgccggcacttgcaactgcggggcagtgggcgtgggaatggga
+atggccctgggggccagacagtgcccatctccagccttggatccgacgacagccacggcc
+acacccacgtccacgacaccaggcagagattcattaacgcgtccggcctccgagtccgag
+ctgaatgtgggcacaggcacatcgggcaccagttcatccggcgggaacagccgtccaggt
+caccgcaagtcatcactagccctcgccctcaccccggaagatgagccgatggacgtctac
+cagtggccagtggtcgtggtcgagtgttggtttataattagcagaatgcgcaactgcttg
+ccaaaattcagcaaagtctttcgccgcaagtcctccgcgaagtcctcctcttcgtcggcc
+ggccgagagaatccgtcgaacgagccggactctgatacggagccgtatgccgtagccatc
+gcggctatatccgatcggagtggagataaccgtaatgaaagaccaagaccgctgccagat
+gacgatagcactcgcagccggctgataagcgctgctcatttggatttggatttgggtttg
+gaattggactcaaattcaacggcagtgacgaccaacggaggccttcggccaaagagcgag
+ggttcctgcccggaaatgaaagtggaaacgatttcggcggccacgtctccgcctccgccg
+cggcctctgcatggcactccaggtccagtggccatttccctgccatttgtgggacggaat
+tcgagtaaaacgcccgaggaaatggagctggaatacgaggcgaatgtggaggccgaaagt
+cgtgacataatgacccccctgcgccgcaacacaaggccgctgagcgtgtccttcggcgga
+ggaggaggaggagtcggaggaggacgcagtgcactgcagccggaaatagtcgaggccata
+cgcagcctggacgtcccggccctgcgcttgaacaatctgagcttcgacgggagcacagac
+cagaagggggaaaggagtcgtgcggaggaggagcccctgacaccggaccacgaccatgag
+gactcggtggtccttcggcgcaaggtcatctgcctggagcgcaaggcacacagtctgtac
+gagcgccgattgcccagggtgccgaaactccacctcctggtggctggcaagaagggtccg
+ccgacggaggaggaggagttccgcactttccagcgaaatctcatggacctgaagtatcca
+accgtgctaccaccgaatcccccacttaaggccctcctggttttccacaagtcggacagc
+atctgcgaggcgatcaccgcggcctgccagcgccaccagctggacgtcacgctggtcaag
+tcgaaggaggaggccctggacaccctgcagaagtcgtacgccaccgcccagtgctaccac
+ctaatcataattgatgcgcgctcctccaagaacctggatgcggagcacattgcgagaacc
+attcgtcacacacacggccaccatttaacgacaataattgcagtctgcaagaagagtttc
+ttcgaaaaggatgatgtgctaattgctctattggacgctggcgttaatagatgcgtagcg
+gagacgaccaacctggccatgtgcagtgtggaactgaagcagatactgcactccatcatc
+cggccgcacaatgtcatgtccactcaacaggccctctacacggctctgcaccggctaaag
+gaggtggtgctcatcacggacgacttgctgcggattcagtacgcgaaccgtgccaccgag
+aggctgctcaacatgcggctggacgagatcattagcaagcagctggaggacatatttgtg
+tcggacctctccaccatcagcgagcagtgcaagaacatcaaggagttcgacggcatcctg
+accgtgcgtcgcaagagccaggagggcatacccatgcacgtgcgcgttgtgccggtggcc
+tgcataggcagcgcccccacgcacctgattttcaactttgatgtgcccggcgggcagatg
+gacttcatagccacgctgccgcagcccaaagatgcgcctcggggctccctgcactcggtg
+cggcgctgcagctttgatgtccgctccatcgcctcggacggactgcggaggacgagcttg
+gccaagctgacgtcgctgccactggaggcacccatcactaaaggtcccagcgtgtactca
+tcgcgccgcagctcgaatgactccatcatacgcactggcagctccacgagaactgccgcc
+attgtgcccgccaaaatgaagtccaaccccattatcatggaactacttgacgaatctctc
+agctgggactttgatattttcaaattggaggagatcaccgactaccacccgctgctctac
+ctgggcatggagatgttccgccgcttcgacgtctttgccaccctgaacatcgatgagaac
+gtgtgcaaggcgtggttggcagtgattgaagcccactaccgcaagagcaacacatatcac
+aacagcacccatgccgcggatgtgatgcaggccactggcgcatttatcacccaactaacc
+aacaaggatatgctggtgatggatcgcatggaggaggcgactgccttgatcgccgccgcc
+gcccacgacgtggatcatcctggtcgctcatccgccttcttgtgcaactccaacgacgcc
+ctggccgttctatacaatgatctgacagtgctggagaaccaccacgcggcaatcaccttt
+aagctgacactgggcgacgacaagatcaacattttcaagaacctggacaaggagacgtac
+aagtcggcccgcagcaccatcatcgacatgatcctggccaccgagatgacccgccacttt
+gagcacctggccaagttcgtgagcgtctttggcggcgaggagccgcgtgatcacaacccc
+cagacggatgaggagacctccatactcatgcgtcgcatgctgatcaaggtggccgatgtg
+agcaatcccgccaggccgatgcagttctgcatcgagtgggcccgccgcatagccgaggag
+tacttcatgcagacggacgaggagaagcagcgccacctgcccatcgtgatgccgatgttc
+gatcgggccacctgcagcataccaaagagccagatcggcttcatcgaatacatcatacag
+gacatgatgcacgcctgggagagcttcatcgacatgccgcagctgatcacttacatgcag
+atcaactactcgcagtggaagaagtacgacgagcagggcgtcaacacgctgacggagatc
+atggccaagcagccaccgctaatggctggcattcttccaactcgacggctgcccaaaagc
+gtcttcttaatttcacctggccgccgcgatcgaaagcgtttaatgcggtttcaactgccg
+agccgatcaggtcgatcaatcgttcgcccacttgagccacctacccaccccgtatcgaag
+atgccccagtcgagcttctttgccaagagcgtgcccttcgagcagatcgacaagctggcc
+atcagtggcggctactcctcgatcttcgccagcagcaagccgtcggtgccggtggtcgga
+aactgggagcagcgcttctgccgcctggcggacaccttccagccggtcctggatcgggtg
+tacgacttcgaggtgcgggaggacgacgtgtggattgtcacgctgccgaagtgcggcacc
+acctggatgcaggagctggcctggctggtgatcaacgagtgtgattttgagacggccaag
+agcgtggatctcacgcatcgatcgcccttccttgaattcaatggcgtggttcccaacgtg
+ccacacgacaccatcgccgcagcgaatgccctgccttcgccgcgcctgatcaagtcccat
+ctgcccgcctggatgctgcccaggcagatctggagcaagaggcccaagatcatctatgtg
+taccgcaacccgaaggacgcggccatctcttacttccaccactggcgcggaatggtgggc
+taccagggcaccaagtcggacttcatgcactccttcatcgacggctatgtgaacttcacg
+ccctgctggccgcacatcctggacttttggcagctgcgccacgagcccaacatcttcttc
+accagctacgagcggatgaagggccagctgggccaggttatctcggaggtggcccagttc
+ctggagcgcagtgtcagccaggagcagatccagcagatgcagcgacacctctccttcgag
+agcatgcgcgacaatcccgcctgcaaccacgtcaaggagttcgagagcatgaaggcggct
+gccggcagggaggtggaggagttcaggttcgttcgccgcggagtcgtgggcagccacaag
+gatgagctcaccgccgacatcatccgggaattcgatctctggtcggactgggagggaaga
+ggtgataatgtgcgaggtaacagttatgtactgtcgcatttcgcaaccacttccgagcca
+acttatgcgggatttcaaattgaacatggatga
+
+>19980000:20080000|GENSCAN_predicted_peptide_6|256_aa
+MERVRVWPRSYPTNLIDKDWGNRKLLHRKDSENFLRLVHDMKLRDDDVWIVTLPKCGTTW
+MQELLWLLLNNCDFEGALAKDQELRTPFLEWVYPYSFGYSVFQDLNRSFGPIEELKSPRL
+IKSHLPLALLPSKLWEGNNKVVYVSRSPLDSYVSRYYHGVSFGSNYGKTLHQYFDEWLAS
+DDFPTEFIEHAHEFYQLRNEPWVFYTSFEMMKKDLRGVINDVSRFLNKPINDQQMEKLLK
+HLSFSEMKSWKPMRKQ
+
+>19980000:20080000|GENSCAN_predicted_CDS_6|771_bp
+atggaacgggttcgggtctggccgcggagctatcccacgaacctcatcgataaggactgg
+ggcaatcgaaagctactgcatagaaaagattcggagaactttcttcgcttggtgcacgat
+atgaagctcagagatgacgatgtctggatcgtaaccctaccgaaatgcggaaccacttgg
+atgcaggaactgctctggttgctgctcaacaactgcgatttcgagggggcgttggccaag
+gaccaggagctgcgaactccgtttctcgagtgggtgtatccgtattcgttcggttactcc
+gtttttcaggacctgaaccgctcattcgggcctatcgaggaactgaagtccccgcgactg
+ataaagtcccaccttccgcttgccctcctcccctcaaaactttgggagggaaacaacaaa
+gtggtctatgtgtcccgtagccccctggactcctatgtctcccgatattatcacggagta
+tcctttggttccaattacgggaagacactgcaccagtacttcgatgagtggttggcctct
+gatgatttccccacggagttcattgaacacgcccatgagttctaccaactgaggaacgag
+ccttgggtcttttacaccagcttcgaaatgatgaagaaagatctgcgaggagtgatcaac
+gatgtctccagatttctgaataaacccatcaacgatcagcaaatggagaaactgctgaag
+catttgtccttctcggaaatgaagagttggaagcctatgcggaaacaatga
+
+>19980000:20080000|GENSCAN_predicted_peptide_7|181_aa
+MFRDWWDELDFPMRTSRLLDQHFGQGLKRDDLMSSVWNSRPTVLRSGYLRPWHTNSLQKQ
+ESGSTLNIDSEKFEVILDVQQFSPSEITVKVADKFVIVEGKHEEKQDEHGYVSRQFSRRY
+QLPSDVNPDTVTSSLSSDGLLTIKAPMKALPPPQTERLVQITQTGPSSKEDNAKKVETST
+A
+
+>19980000:20080000|GENSCAN_predicted_CDS_7|546_bp
+atgttccgtgactggtgggatgagctcgactttccaatgcgcacctcgcgcctcttggac
+cagcacttcggtcagggactgaagagggatgacctcatgtcctccgtgtggaactcccgc
+cccacagtgctgcgatcgggatacctgcgcccctggcacacgaacagcctgcagaagcag
+gagtccggatccaccctcaacatcgacagcgagaagttcgaggtcatcctggacgtgcag
+cagttctcgccatccgagatcaccgtcaaggtggccgacaagttcgtcatcgtggaggga
+aagcacgaggagaagcaggacgagcacggatatgtctcccgccagttctccagacgctac
+cagctgccaagtgatgtcaaccccgacacggtcacatcctccctctcttccgacggcctg
+ctgaccatcaaggcgcccatgaaggcgctgcctcctccgcagactgaacgccttgtgcag
+atcacacagactggtccctcctccaaggaggacaacgccaagaaggtggagacctccacc
+gcctag
+
+>19980000:20080000|GENSCAN_predicted_peptide_8|534_aa
+MPTPPPQRDAKNGKQATFIAGRAAREVFTVLRERRISQDGNRGSYMMCAPHSLPVTSRLL
+LLVVTLLFCPVQAHLSKRSYSDQSVHGYMTERTCWWNEVCKEEFQSLFRCKCPQFSYCRK
+SQDFQKMSRLLFVALLAISLGCVAPSSSNHLPAGLAVDLGPGVNLNERFFDQVRALIKRR
+LQEKGLAKPEQPELAMPLADDDAVALQNQRSYDNVPLPAASVPTPVLVENWPTEQHSFGQ
+VTAVAVDPQGSPVVFHRAERYWDVNTFNESNIYYLIEYGPIKENTIYVLDAKTGAIKSGW
+GSNMFYMPHGLTIDLHGNYWITDVAMHQAFKAGFKPFSNKPLLTIGKRFRPGSSVKHLCK
+PTSIAVATTGEFFVADGYCNSRILKFNAAGKLLRTIPQPPEFLSLQVPHAITLLEHLDLL
+CIADRENMRVVCPKAGLISSHGEGEPAATIQEPDLGRVFGVASFGDIVFAVNGPTSMLPV
+RGFTIDPRSETIIGHWGEFKNPHSMAVSVNGSALYVTEIGTNHQTNRVWKYVLA
+
+>19980000:20080000|GENSCAN_predicted_CDS_8|1605_bp
+atgccgacgccaccgccccaaagggatgccaaaaacggaaaacaggcgacattcatcgca
+ggacgtgcggcacgtgaagtgttcactgtacttcgggagcggaggataagtcaagacggc
+aacagaggaagctatatgatgtgcgccccccactcgctgcccgtgacgtcacgactgttg
+cttctggtggtgacgctgctcttctgccccgtgcaggcgcatctctcgaagcgaagctac
+tcggatcagagtgtccacggctacatgaccgagcgcacctgctggtggaacgaggtgtgc
+aaggaggagttccagagcctcttccgctgcaagtgcccccagttctcctactgccgaaaa
+tcgcaggacttccagaaaatgtcgcgtctcctgttcgtggcgctgctggccataagcttg
+ggatgtgtggcgcccagcagcagcaaccacctgccagcgggcttggccgtggacctggga
+ccaggtgtcaacctcaacgagcgcttcttcgaccaggtgcgggcgctcatcaagaggagg
+cttcaggagaaggggctcgcgaagccggagcagccagagctggcaatgccactggccgac
+gatgatgcagtggccctgcagaaccaacgcagctacgacaacgtgccccttccggcggcc
+agcgtgccgactcccgtgctcgtggagaactggcccaccgagcagcacagctttggccag
+gtcaccgccgtggccgtggatccgcagggcagtccggtggttttccaccgcgccgagcgc
+tactgggatgtaaacacattcaacgagagcaatatatactaccttattgagtacgggccc
+atcaaggagaacaccatatacgtgctggacgcgaagacgggcgccatcaagtcgggttgg
+ggatcgaacatgttctacatgccgcatggcctgaccatcgacttgcacgggaattactgg
+atcacggatgtggccatgcaccaggctttcaaggcaggtttcaagccctttagcaacaag
+cctctgctgaccattgggaagcgcttcaggccaggatcatccgtgaagcacctgtgcaag
+cccacatccattgcagtggcgaccaccggagagttcttcgtcgccgatggctactgcaac
+agtcgcatactcaagttcaatgccgctggcaagctgctccgcacgattccccagccaccc
+gaattcctctctttgcaggtgccacacgccatcaccttgctggaacacctagatctgttg
+tgcatcgccgacagggagaacatgagggtggtctgtcccaaagctggcttgatatcctcc
+cacggcgagggtgaaccggcggccaccatccaggaaccggacttgggtcgcgtcttcgga
+gtggccagcttcggggacatagtgttcgccgtaaatggacccacctccatgctgccggtg
+cggggattcaccatcgatccgcgctcggagacgatcatcgggcactggggcgagttcaag
+aacccgcactccatggcggtcagtgtcaacggatcggcgctgtatgtgaccgagatcgga
+accaatcaccagacgaatcgagtgtggaagtatgtgctggcctga
+
+>19980000:20080000|GENSCAN_predicted_peptide_9|852_aa
+MNCSRRFDRHEPQISHLQTESYDCTDGPSSGATTSLATTRQQRDLDSEPIYSEIEEDCLR
+IRGSPHHEVRTAAQIIDHTPTPTESSTAYVSESVPAPSPSRDDISAMYARVQKTPKNSPQ
+MKPLVKPQISFQAIQPQKSTHSASPPITTPIVLDQAVQPKSCTQSNPPQLSTQMVSPQAT
+APQQPVALGHFLHESLKNGNFFQFMPLPEEPSGTESSCSASQTTESSVVRQPKLKLPPPH
+THHSLNNISEQHSPPKQNRNLSRSELSLQRSEIFLDNLCRSELVLDRLEKVPNNTSNVDS
+VSYDMPEQLYADYSLVGAGSAGSSFVTNDYGSGQIEPEPANQSTPKKKQSQRFTTKPASN
+LTIEIHDGQATSLRQFGNNLSISCPTTPQQAEASQAVDPSVLHNSSSLGELMQTEPNPSD
+SQLMSVSALARYRLLKNALRRSYRKGKDFFLAEKQRLAQSLNLSRDQSNQTDGELDSSTY
+YASFNVDSLLNDSLNPNEQLAQAVSICRQMPELEISAEMVEAERLLLFSTLRKSTPLGGQ
+LNEEALAARRKSQCLLIDAMELPVRADVSRDMFFNYHYICTFECGGRIRSTQSVECQNGS
+AFFRDCGLEFYSGENADSLELRCQIFMLRLRKVSTLALEPAKSLRRGSGNLGSANSSCSA
+GSGGEQIMSRFRLHASFHLRAVDLSPFQLVTNESRSSDKICLRSSSSWQVPLSTHTKSTN
+LGPAISITGRVDLRLPKTRFSGYLNVQDPKSQHNWNRRWCILDGVRLSVWQHEDNLESDT
+PIFSLELPGLGQSQIAAAPRELCARARSFLLQGRESDYESGVFFAADTQAELSEWLTHLN
+EAIAFARHWLCS
+
+>19980000:20080000|GENSCAN_predicted_CDS_9|2559_bp
+atgaactgctctcgccgctttgaccgccatgagcctcagatcagccatcttcaaaccgaa
+agctacgactgcacagacggacccagcagtggggcaaccacatcgttggccaccacacgg
+caacagcgcgatctcgacagcgagcccatttactcggagattgaggaagactgcctgcga
+attagagggagtccgcaccacgaggttaggaccgctgcacagatcatagaccacacgccg
+actcctacggaaagctccaccgcgtatgtgagtgagtctgtacctgcgccgtcgccctcg
+cgcgatgatatcagtgccatgtacgccagggtgcaaaagacgccgaagaactcgccgcaa
+atgaagccactggttaagcctcagatcagtttccaagccattcagccacagaagagtact
+cattccgcttcgccgcctataacaacacctattgttcttgatcaggcggtacaacctaaa
+agctgcacccagtcgaatccaccgcagctaagcacccagatggtttcaccacaagcgact
+gctcctcagcagcctgtagcgttgggtcactttctccacgaatccctgaagaacggtaac
+ttctttcagttcatgcctctgcccgaggagccgagtggaacggaatcctcctgctcagcc
+agtcagaccactgagtcctctgtggttcgccagccgaagttaaagttgcctccgccacat
+acccaccattccttaaacaatatcagtgagcaacactcgccgcccaagcagaaccggaat
+ctttctcgttcagaactctctctgcagcgcagcgagatcttcttggacaatctgtgccgc
+agtgaactggtgttggatcgcctggaaaaggtgcccaataacacttctaatgtggattcc
+gtttcgtacgacatgcccgagcagctctacgcagattatagcttggttggagcgggcagc
+gccggcagctccttcgtgaccaacgattacggctccgggcaaatcgaacctgaaccggcc
+aaccagagtacgccgaaaaagaagcagagccagcgctttacaaccaagcccgcttccaat
+ttgaccatagaaattcatgatggccaagccacgtcgctgcgccagtttggaaacaatctg
+agcatcagttgccccacaactccccagcaggcggaggcctcgcaggcagtggatccctct
+gtcctgcacaacagcagcagtttgggtgagctgatgcagacggagcccaatcccagtgac
+agccagctgatgtcagtcagcgccctcgctcgctaccgcctcctgaagaatgcccttcgt
+cgttcgtaccgcaagggaaaggacttcttcctggcggagaagcagcgcctggctcagagc
+ctcaatctctcgagggatcaatcgaatcagacggatggggagctggatagcagcacctac
+tacgccagcttcaacgtggattccttgctaaacgattccctgaacccaaacgagcagctg
+gcccaagctgtgagcatatgtcggcagatgccggaattggagatctctgcggagatggtg
+gaggcggagcgactgttgctcttctctaccttgcgaaaatcgactccacttggtggccaa
+ttgaatgaagaagcattggccgcacgtagaaaatcccagtgcctgctgatcgacgccatg
+gaactgccggtgagggcggacgtcagccgggatatgttcttcaactaccactacatctgc
+acctttgagtgcggaggacgcatacgatccactcagtcggtagagtgccagaatggctcc
+gccttctttcgagactgtggcttggagttctacagtggagaaaatgcggactccttggag
+ctgcgctgtcagatcttcatgctccgcctgcgcaaagtttccactctggccttggagcct
+gccaagtctctgcgccgcggcagcggaaacttaggttctgccaactcgagctgctctgcg
+ggttctggtggtgagcaaatcatgtcacgctttcgcttacatgcctctttccatctgcga
+gctgtggatctgtcaccatttcaactggtgaccaatgagtcgagatcaagcgacaaaatc
+tgcctgcgcagttctagctcctggcaagttcccctgagcacgcacaccaaatccacgaat
+ctgggacctgccatatctattactggcagagtggacttacggctgcccaagacccgcttc
+tctggctacctaaatgttcaggatccgaagagccagcacaactggaaccgcagatggtgc
+attctggatggcgtgcggttatccgtttggcaacacgaggataatctggaaagtgatacc
+ccgatattctcgctggagttgcctggactcggacaatcccagatagctgcagccccccgc
+gagctgtgtgctcgggcgagaagttttctgctgcaaggaagggaatcagattacgaatcg
+ggagtcttctttgctgccgatacgcaagcggagctctcggaatggctaacccatctaaat
+gaggctatagctttcgccaggcactggctgtgctcctga
+
+>19980000:20080000|GENSCAN_predicted_peptide_10|354_aa
+MYKSLLHNVTLKATSRIIRRSVSSQAKGASGKRKQKAKEMESSHDRNRRWTPLGDPTEGG
+DPHKCSSFKVVSYNILAQDLLLEHLFLYVGIPHEFLSWQRRQQNLLRELLKLDPDILCLQ
+EMQFDHLPVLVQRLRIGNGKKLAYVYKKKTGCRTDGCAIVYDSSKFKLLDHQAVELRDQA
+VALLNRDNVALFAKFRFRKQQEQQKEFVVATTHLLFNQKRSDVRCAQVERILEELHSFST
+DTPIVLTGDFNSLPDSPPIEFLVGKNGGVDSTDCPEPLHFEIIDSGKGTASTYQNEWVIV
+DYILRSLGSRSRHKLLPLSVYSLPTINCCIGTGQIPNYRLGSDHYALGAVFTVV
+
+>19980000:20080000|GENSCAN_predicted_CDS_10|1065_bp
+atgtacaagtccctgctgcacaacgttacactcaaggcgacatcaaggatcatcaggcgc
+agcgttagcagccaggcaaaaggagccagcggaaagcgcaaacaaaaagcgaaggaaatg
+gagtcgagccacgatcggaataggcgctggacgccattgggggatccgactgagggtgga
+gacccacacaagtgctcctccttcaaggttgtctcgtataatatcttggcccaggatctg
+ctactggagcaccttttcctgtacgtgggaatcccgcatgagttcctcagctggcaacgc
+cgccagcagaaccttctcagggaactgctcaaactggatccggacatactatgcctgcag
+gagatgcagttcgaccacctcccagtgctcgtccaaagactgcgtataggcaatggcaag
+aagttggcttatgtctacaaaaagaagaccggctgtcgaacggacggatgcgccattgtc
+tacgactcttcaaagttcaagttgctagaccaccaagccgtggagctgcgcgaccaggcg
+gtggccctgctcaatcgcgacaatgtggccttgtttgccaagttccgattcagaaagcag
+caggagcagcagaaggagttcgtggtcgccaccacgcacttgctcttcaaccagaaacgg
+agcgatgtccgttgcgcccaggtggaaaggattctggaggagctgcactcgttctccacc
+gacacgcccatcgtcctgactggtgacttcaacagtctgcccgactccccgcctattgaa
+ttcctcgttggcaagaatgggggtgtggattccacagattgcccagaacccctgcatttc
+gagatcatcgattcgggaaaaggaactgcctccacataccagaacgaatgggtcatcgtg
+gactacatcctgcgctcgctaggatcgcggagcagacacaagctcttgcccctcagcgtc
+tactcactgcccacaatcaactgttgcattgggacgggacagatccccaattaccgtctg
+gggtcggatcactacgccttgggtgcagtatttaccgttgtctag
+
+>19980000:20080000|GENSCAN_predicted_peptide_11|722_aa
+MATHIGLQTFVGSKFSKHVLVEEEEGEEEEEDSAESGSTSSFSLQECIDEFRARRIRRVS
+TQSRDCETNNNHINMSRQLPRVRRTTDADLINQNRCNKEQERKGKPCQNGFCYCFTSDSG
+DCGSTAPPRDQHVRLPRRSRRSESAKPAKQNNLGSQRQQAEKLRRSEPTSINSGFKTPLT
+AVSRLRAVAGEDEPLIHIIQELHDNCVVSEVRVNRHKLSDSGSSCRHRSTKREPTKMLSY
+EPIAYKPSAPVLSNISEQESAVEEEQEKEELATEPTSRRSSRSRRSSGAGGRLLQKRLSQ
+GQVSFKARNSQLPPPKPPRRSSQSLDGKLSQSSLTSTNPSVREAERVLDEFLRKRGVQVP
+TSNLEPSRKKDSKRRSFPMAEVEKPTHPRSHKQLPTCPSLSDIERVVESKRGSNYARNIR
+QESSRKGAHTKEVIIGWTEPKITDMLNYEGKTASEFRTPAEPQVGIGWQLPKAQPQPVVP
+KVSLDTVDGSVCENLASNMMHKETPIKYPSRVNTAGGQASQKFIWGEQWRNLSPWKGNKP
+KNLGKKSKNFLNNSKKKILRFVSPKKSNQEDNTQLDQHRFTPQQCTIGVQTSTSQLDLHS
+QSPPGSYHSPMQTTPSGTTTSTRQQLDTEQPYFDFERKVKAPTPPKKLPRANRARKLDFQ
+AAAAPTTYRSYHKDLDQDVTITKMGYLLSSIRAKLEASDEQAVRTFQLLLYNLWGVFISY
+LY
+
+>19980000:20080000|GENSCAN_predicted_CDS_11|2169_bp
+atggccacccatatcggcctccagacttttgtgggctcaaagttctccaaacatgttcta
+gttgaagaagaagagggggaggaggaggaggaggattccgccgagtctggttccacatcg
+tcgttcagtttacaggagtgcatcgacgagttcagggcacgccgcattcgccgtgtgtcc
+actcaaagccgcgactgcgagaccaacaataaccacatcaacatgtcccgacagcttccc
+cgagtccgcagaaccacggatgcggacctaatcaaccagaatcgctgcaacaaggagcag
+gagcgcaaggggaagccgtgccagaacggcttctgctactgcttcaccagcgacagcgga
+gactgcggctccacagcgccgccacgtgaccagcacgtgcgactaccaaggcgcagcagg
+cgatctgagagcgccaagcccgccaagcagaacaatctcggcagccagcggcagcaggcg
+gagaaacttcgtcgaagtgagccgaccagcataaattctggcttcaaaactcccttaact
+gctgtcagtcgcttgagagccgtggccggcgaggatgaaccgcttatacacatcatccag
+gagctgcacgacaactgtgtggtgtccgaagtgcgcgtgaaccgccacaagctgtcagat
+tctggctccagttgccggcacaggagcacaaagagagagcctactaaaatgctttcatac
+gaacccatagcctataagccctcagctcctgttttgtctaacatcagcgaacaggaatcc
+gctgtggaggaggagcaggagaaggaagagctggccaccgagcccacaagtcgcaggagc
+tctcgctctagacgcagttccggagcaggtggacgcctgctgcagaagcgcctctcgcag
+ggtcaagtcagcttcaaggcacgcaactcgcagctgccgcctccgaagccgccgcgtcgc
+agctcccaaagtctggatgggaagctatcgcaatcctcgctcacctccacgaatccttcg
+gtgcgggaggccgagcgagtgctggacgagttcctgcgcaagcgtggcgttcaggtgcct
+acgagcaacttggagccttcgcgcaaaaaggacagcaagcgcagatcgtttcccatggct
+gaggtagagaagcccacgcatcccaggagccacaagcaactgcccacctgcccctcactc
+agtgacattgagcgcgtggtggagtccaagcggggttcaaattacgcccggaatattcgg
+caggagagcagtcgcaaaggagcgcacaccaaggaggttattattggctggacagaaccc
+aagatcaccgatatgctcaactacgagggcaagacagccagcgagtttaggacgccggcg
+gaaccccaagtgggcattggatggcaactgcctaaagcgcagccgcagcctgtagtgcca
+aaggtttccttggacactgttgatggaagtgtttgcgagaacctggcatccaatatgatg
+cacaaggagacgcccatcaagtatcccagtcgagttaacacggcaggaggtcaggccagc
+cagaagttcatctggggcgagcagtggcggaatctatctccttggaagggtaacaaaccg
+aagaaccttggaaagaagtccaagaacttcctgaacaactccaaaaagaagatcctgcgc
+ttcgtctcgccgaagaagtctaatcaggaggataacacgcagctggatcagcacagattc
+actccccaacagtgcactattggggtacagacctctacctcgcaactggacctacattca
+cagtctccgccgggaagctaccactcccccatgcagaccacgccctcgggtaccaccaca
+tccacccgccaacagctggacacagagcagccgtacttcgatttcgaacgcaaggtgaag
+gcgccgactccgccgaagaagctgccccgtgccaacagagcccgcaagctggactttcaa
+gcagcagcagcacccaccacctatcgttcgtatcacaaggatctcgaccaggacgtcacc
+atcaccaaaatgggctatctgctcagcagcatcagggccaagctggaggccagcgatgag
+caggcagtgagaacctttcagcttttgctttataatttgtggggtgtgttcatttcgtac
+ctttattga
+
+>19980000:20080000|GENSCAN_predicted_peptide_12|192_aa
+MSNSHLFLKSGFPRAPLQNGLGRYVCQLQRITLKFCKNNGSSRGMRDFIENHLLDFAKEN
+PGIVVYVKPRRHRTPVLVGEYLNGEREWMSCRNSTQEEISKWIDLLKTQNGSSSSLRLRK
+MWHTEVPSIQGPWTPFLLRSPDAQGQAYPSVEASKPLETPQTATEKLIELFRQQQLEAGE
+EAHDVLNKKRAE
+
+>19980000:20080000|GENSCAN_predicted_CDS_12|579_bp
+atgtcaaacagccacttgttcttgaagtccggcttcccccgcgcgcccctgcaaaatgga
+ctgggacgctatgtttgccagctccagcggatcaccctaaagttctgcaagaataatgga
+tccagcagaggcatgcgcgacttcattgagaaccacttgctggacttcgccaaagagaat
+cccgggattgtggtctatgtgaagcccagacgccatcgcacgccagttttggtgggagag
+tatttgaacggcgagcgcgagtggatgagctgcaggaacagcactcaagaggaaatctcc
+aagtggattgacttgcttaagacccaaaacggcagctccagctccctgcgactccggaaa
+atgtggcacacggaagtgccctccatccaaggcccatggacgccattcctgctgcgttcg
+ccggatgcccaaggccaggcctaccccagtgtcgaggcgtccaagccgctggagacgccg
+caaaccgccaccgagaagctcatcgagttgttccgccagcagcaactggaagctggcgag
+gaagcacacgacgtgctgaacaaaaagcgggccgagtga
+
+>19980000:20080000|GENSCAN_predicted_peptide_13|210_aa
+MSVAGLRQCLLLWSVDYWNLEVMADNVFKSHDIGLRAQKKILSRMATKNIAKTFIDGTTA
+SLLDNLYRLCKMHTGNKAKAEKLIKNIIKIVIKIGVLHRNNQFSDEELQKAELFKRKFQN
+TQLSIISFYEVDFTFDLPYLQKSIAESQVALKSIVQPHLTEKSLGRIDEVFDFFGEEALL
+ETAFRADSPYREVMGKIVADINAAMETGDI
+
+>19980000:20080000|GENSCAN_predicted_CDS_13|633_bp
+atgtcggtggccgggcttcgacaatgtctgctgctgtggagcgtcgactactggaatttg
+gaagtcatggcggacaatgtcttcaagtcgcacgatatcgggctgcgggcgcagaagaag
+atcctctcacgcatggccaccaaaaacatcgccaagaccttcatcgatggcacgacggcg
+tcgctgctggacaacctctacaggctctgcaagatgcacacggggaacaaggccaaggcg
+gagaagctgatcaaaaacatcatcaagatcgtgatcaagatcggtgtgctccaccggaac
+aatcagttcagcgacgaggagctgcagaaagcggagctctttaagagaaagtttcagaac
+acgcagctgtccatcatatcattctacgaagtggacttcacgttcgacctgccctacctg
+caaaagtcaatagccgaatcgcaagtggcgctgaagtcgattgtgcagccgcatctcaca
+gagaagtcgctgggccgcatcgacgaggtgttcgatttcttcggcgaggaggcgctgctg
+gagacggctttccgagcggactccccctaccgcgaggtgatgggaaagatcgtggcggac
+ataaacgccgccatggaaacaggagatatctga
+
+>19980000:20080000|GENSCAN_predicted_peptide_14|769_aa
+MNIYNKLRAREHGYGNERTYDFALRRLSVAKEDSWRGIAPANYCPDFNPEPPIFSAKFAN
+CDGYRHILAIANEDGKITLQDTTQRNHQPEEQSLVGPQCHYNAVFDLEWAPGQMRFVSAS
+GDHTARLWEVAGSGIRGLNSYVGHTRSVKSAAFKRTDPAVFATGGRDGAILIWDIRANLN
+MDLTSRVDNCIYSGHTGGPGTPVSQRKQRTRTPKMAGGTTSSSITGLAFQDNDTLISCGA
+GDGVIKVWDLRRNYTAYKKEPLPRHKLPYAGSSTFRGFTNLIVDASGTRLYANCMDNTIY
+CYNLASYSPRPLACYKGLLNSTFYIKSCLSPDGKYLLSGSSDERAYIWNLDHAEEPLVAL
+AGHTVEVTCVAWGSSHDCPIVTCSDDARHKIWRIGPDLDGLSEAERAEKYRGTASYVREF
+GKKAVGPSSGNHKYNLRDLESTPRSLKRLMDQNERTPGSVEKTTTKRSFLEMLGVAGQET
+EATEHPQKRAKPLESRGRRLFGPSSQETACRHIQLQPINEEDASPSKRQKENSAAEDVSP
+LHKLLSTPSHSPLSENVNHMYTSPPTTSAAAAAVAADAVNPPPISAAIYSPTSNLPNYVL
+DGEAPHLGIMSPKRKAKEKVDWLTNIRKQKLMSGRAHVTLSEKISEEQQTDVLASPRLQS
+LRQSECSPRIHASPRRRISHTDGGGGTPAGSSSHSHSQSQPKTPTSSRRNSETTLLRFFS
+IQRSSSVPAGETTTTNAAPSSPDPHPPAVTAPASTPLSMRTPTTAVGSD
+
+>19980000:20080000|GENSCAN_predicted_CDS_14|2310_bp
+atgaacatttacaacaagttgcgggccagggagcacggctacggcaatgagaggacctac
+gacttcgccctgcgccgcctttccgtggccaaggaggacagctggcggggcatcgcgccg
+gccaactactgcccagacttcaatccggaaccgccgatcttctccgccaagttcgccaac
+tgcgacggttaccggcacatcctggcgatcgccaacgaggacggcaagatcacgctgcag
+gacaccacccagcgcaaccaccagccggaggagcagtccctggtgggcccgcagtgccac
+tacaacgccgttttcgatctggaatgggcccccggccagatgcgcttcgtctccgcctcg
+ggcgatcacactgccaggctgtgggaggtggcgggctctggcatccgcggcctgaactcc
+tatgtgggccacacaaggtccgtcaagtcggcggccttcaagcgcaccgatcccgctgtc
+ttcgcaaccggtggacgtgatggcgccattctcatctgggacatcagagccaatctgaat
+atggacctcacctcacgcgtggacaactgcatctacagcgggcacacgggcggacctggc
+acgccagtctcgcagcgcaagcagcgcacacgcactcccaagatggccggaggaaccacc
+tcgagcagcatcaccggcttggctttccaggacaacgatacactgatctcctgtggtgcc
+ggcgacggagtcatcaaagtgtgggacctgcggcgcaactacacagcctacaaaaaggag
+ccactgcccaggcacaagctgccatatgccggcagctccaccttccgtggattcaccaac
+ctcattgtggacgcgtcgggcacgaggctgtatgccaactgcatggacaacaccatctat
+tgctacaatctagcctcctactcgccccgcccgctggcctgctacaagggactccttaac
+tccacgttctacatcaaatcctgcctcagcccggacggcaagtatctgctgagcggaagc
+agcgacgagcgggcttacatctggaacctggaccacgccgaggagccgctcgtcgcactg
+gccggacacacggtggaggtgacctgcgtggcctggggctccagccacgattgtcccatt
+gtcacgtgcagcgatgatgcgcgtcacaagatctggcggattggacccgacctggatggc
+ctcagcgaggcggagcgcgctgaaaagtaccgaggaactgcctcctacgtcagggaattc
+ggcaagaaggctgttggtccatctagtggaaatcacaagtacaatcttcgagatctggag
+tccacgccacgatctctgaagcgccttatggatcaaaatgaacggacaccaggctctgtt
+gaaaagacgacgaccaagcgttcgttcctggaaatgctgggcgtagctggccaggagacg
+gaagccacagaacacccacagaagcgggcgaagccactggagtcacgtggaaggcggctc
+tttggaccttccagccaggaaactgcttgcaggcatatacaacttcagcccataaacgaa
+gaggatgcgtcgccgagcaagaggcaaaaggagaactctgccgcggaggatgtctcgcca
+ctgcacaagcttctcagcacaccaagtcattcccccttgagtgagaatgtgaaccatatg
+tacacctccccgccaaccacgtcagcggcagcagcagcggtggctgccgacgcggtcaat
+ccgccgccgatctccgctgccatctactcgcccacctccaacctgcccaactacgtgctg
+gatggcgaggcaccgcacctgggcatcatgtcgcccaagcggaaggcgaaggagaaggtg
+gactggctgacgaacatccgcaaacagaagctgatgagtggcagggcccatgtgacgctc
+agcgaaaagatcagcgaggagcaacagaccgatgtgctggcatctccgcgcctccagagc
+ctgcggcagtccgagtgcagtcccaggatacacgcctcgccccgcagacgaatctcccac
+acggacggaggcggtggcacgccggctggcagctcctcgcactcccattcccaatcccag
+ccaaaaacgcccacttccagtaggcgaaacagcgagacgacgctcctgcgattctttagc
+attcagaggagtagcagtgtgccggcgggggaaacaacgacaacgaatgcggctccctcc
+tctcccgatccccatcccccggcagtgactgcgcccgcatccacgcccctcagcatgcgc
+acgcccacgacggcggtgggcagcgattga
+
+>19980000:20080000|GENSCAN_predicted_peptide_15|426_aa
+MICYVIEILFYFLGDTGPLVYPAAFVYIYSALYYITSHGTNVRLAQYIFAGIYLLQLALV
+LRLYAKSRKVPPYVLVLSAFTSYRIHSIYVLRLFNDPVAVLLLYAALNLFLDRRWTLGST
+FFSFAVGVKMNILLFAPALLLFYLANLGLLRTILQLAVCGVVQLLLGAPFLLTHPVEYLR
+GSFDLGRIFEHKWTVNYRFLSRDLFENRSFHVSLLGLHLLLLLAFAKPIWTFFQSYVRLR
+RIEDQLQPQIAQQNLELKKRPKKVEKDKDKDQKKFTSEQQSFLKAFEKSLQKASGGKATA
+APAQAEPERYGIHFDRCTQLALLPFFLCNLVGVACSRSLHYQFYVWYFHSLPYLAWSTPY
+SLGVRCLILGLIEYCWNTYPSTNFSSAALHFTHVVLLAGVAKQLVQTMRINNAAKREQQE
+QQKKLQ
+
+>19980000:20080000|GENSCAN_predicted_CDS_15|1281_bp
+atgatatgttacgtaattgaaatccttttttatttcctaggagacacaggacctcttgtg
+tatcccgctgccttcgtgtacatctactcggctctctactacatcacgtcccatggaacg
+aacgtgcgcctggcacagtacatcttcgccgggatctatctgctccagctggccctggtg
+ctgaggctatacgcgaagagcaggaaggtaccgccgtatgtgctggtgctcagtgccttc
+acgtcgtaccggatccactcgatatacgtgctgcgactgttcaacgatccggtggcagtg
+ctgctcctctatgctgcactcaatctgttcctggacaggaggtggactttgggaagcacc
+ttcttcagctttgcggtgggcgttaagatgaacatactgctgtttgcgcctgccctactt
+ctgttctacttggccaatctgggacttctgcgtacgatcctgcagctggctgtctgcgga
+gtggtacaactgctgctgggcgctcctttcctgctcacccatcctgtggagtatctgcga
+ggcagctttgatctgggacgcatcttcgagcacaagtggacggtcaactatcggttcctg
+agcagagatctgttcgagaatcgatccttccacgtttctctgttaggactgcatctgctg
+ctcctgctggccttcgccaagcccatctggacctttttccagagctacgtgcgccttcgc
+cgcattgaggaccagctacagccccaaatagcccagcagaaccttgagctgaagaaaaga
+ccaaagaaggtggaaaaggacaaagacaaggaccagaagaagtttacatccgagcagcag
+tccttcctgaaggccttcgagaagagcctgcagaaggcgtccggaggcaaggccactgcg
+gcgcccgcccaggcggaaccggaacgctacggcatccacttcgatcgctgcacccagctg
+gccctgctgccgttcttcctgtgcaacctggttggcgtggcctgctcccgatccctgcac
+tatcagttctacgtctggtacttccactcgctgccctatttggcctggtccacgccgtac
+tccttgggcgtgcgctgcctgatcctcggactgattgagtactgctggaacacctatccc
+agtacgaacttctccagcgctgccctgcacttcacccacgtcgtactgctcgctggggtg
+gccaagcagcttgtccagaccatgcggattaataatgcggccaagagggagcagcaggag
+caacagaagaagctgcagtaa
+
+>19980000:20080000|GENSCAN_predicted_peptide_16|506_aa
+MMISCKKLFVFRQLPAVRRCLATAAFSSPRATSYRILSSAGSGSTRTDAPQVRGLHTTRD
+LLAKDYYATLGVAKNANGKDIKKAYYQLAKKYHPDTNKEDPDAGRKFQEVSEAYEVLSDE
+QKRREYDTYGQTAENIGRQGGGFPGGGAGGFGPEGFSQSWQFRSSIDPEELFRKIFEGEG
+NFRTNSFDDFADSKFGFGQAQEMVMDLTFAQAARGVNKDVNVNVVDQCPKCAGTKCEPGT
+KPGRCQYCNGTGFETVSTGPFVMRSTCRYCQGTRQHIKYPCSECEGKGRTVQRRKVTVPV
+PAGIENGQTVRMQVGSKELFVTFRVERSDYFRREGADVHTDAAISLAQAVLGGTVRVQGV
+YEDQWINVEPGTSSHHKIMLRGKGLKRVNAHGHGDHYVHVKITVPSAKKLDKKRLALIEA
+YAELEEDTPGQIHGIANRKDGTQERVRSQEQEQLLEPVQQQPDQEPPSQDQEQQKAKAKT
+SGRTKRKPKRKKAADPDPDKATAEAS
+
+>19980000:20080000|GENSCAN_predicted_CDS_16|1521_bp
+atgatgatttcgtgtaaaaaattattcgtgttccggcagctgccggcggtgcgccgttgc
+ctggcgacagccgcgttctcatcgccccgcgcgacctcctaccgaatcctctccagcgcc
+gggagcggaagtacccggacagacgcaccccaagtgcgcggcctgcacactacgcgtgac
+ctcctggccaaggactactacgccacgctgggcgtagccaagaacgccaacggcaaggac
+atcaagaaggcctactatcagctggccaagaagtaccatccggacacgaacaaggaggat
+ccggatgcgggccgcaagttccaggaggtttccgaggcctacgaagtgctcagcgacgag
+cagaagcgccgtgagtacgacacctatggccagacggcggagaacattggtcgccagggc
+ggcggattccccggcggaggagccggtggcttcggccccgagggtttctcgcagagctgg
+cagttccgctcgagcatcgaccccgaggagctcttccgcaagatcttcgagggcgagggc
+aacttccgaacgaactcgtttgacgacttcgccgactccaagttcggatttggacaggcc
+caggagatggtcatggacctgacctttgctcaggctgcgcgcggcgtcaacaaggatgtc
+aacgtcaacgtggtggaccagtgccccaagtgcgccggcaccaagtgcgagccgggcacc
+aagccaggtcgctgtcagtactgcaacggcaccggcttcgaaacggtgtccaccgggccc
+ttcgtgatgcgctccacttgccgctactgccagggcacgcggcagcacatcaagtacccg
+tgcagcgagtgcgagggcaagggccgcacggtccagcgccgcaaggtcaccgtgccggtg
+ccggctggcatcgagaacgggcaaacggtgcgcatgcaggtgggcagcaaggagctgttc
+gtcacgttccgcgtggagcggagcgactacttccggcgcgagggcgccgatgtgcacacg
+gacgcggccatatccctggcccaggcggtgctgggcggcactgtgcgcgtccagggcgtg
+tacgaggatcagtggataaacgtggagccgggcacctcgtcgcaccacaagatcatgctg
+cgcggcaagggtctgaagcgcgtgaatgcccacggacacggcgatcattacgtgcacgtc
+aagatcacagtgccatcggcgaagaagttggacaagaagcgactggctctaatcgaggcg
+tacgccgagctggaggaggacacccccgggcagatccacggaatcgcgaatcgcaaagac
+ggcacgcaggagcgagtgaggagccaggagcaggagcagctgctggagccagtgcagcag
+cagccggatcaggagcctccaagccaggaccaggagcagcagaaagcgaaggcaaagacc
+agcggacggacgaagaggaaaccaaagcgaaagaaggcggcggatccggatccggacaag
+gcgacggcggaggcttcataa
+
+>19980000:20080000|GENSCAN_predicted_peptide_17|701_aa
+MCNWECCKSRSPIAKRMAARKLLQMEEEERRRPKLVIPTPQSLFYPFEDVEAMAKYIVSV
+SHIRPKYGLICGSFLSDMVSMVEQPVVIPYEDIPNFPDGIEPDCSFVLGSVMGAPIIALV
+HSFHSCDGYNLATCALPVRVMQLCGVRTIMLTSEAAAVDHGFALGDIMLVQDHINVVGMM
+HQTPLEGPSDPRFGSRRFSMVNAYDKDLLEKALEIGKRMGIQKFLHSGVLACLGGPILGT
+VAEERMLRTMEVSAVGMSLVPEVIAAHHGGLKVLAFVVISRVASDKVSEEGDKDKEKDTD
+RDSKQEKREQDSQELTAGLLRSDRPTYVLHAPRDLTIENRLLESPPDFFYSDSYFRCGQC
+AANAEIATAVFSCAIMRLESYIFPGLHRFFADFTRFLVRSLIRFRPISPTEISACGTTLM
+SFPNDYDLSSIRGCLSYGYNKLLPNYWNLRSVQLIELILLVAAAGQLNAASDKLQLKQLD
+SNRIAAKRNETNRNETIRNKTKQLVNVGKKRQQGQLFRVFLFPSKHAAVDTINESRNAEK
+THKSGAAPENRAAIRIRRLTFNCPVVLEMAPPKAASHRPAVRRKKSGTLVDSILDKYLNV
+RFFKYLLLEPAALPIVGLFVLLAELVINVVVIQRVPYTEIDWVAYMQECEGFLNGTTNYS
+LLRGDPISNPEAYACTCCSLHAVVITIFKRSLTKDSLFPTS
+
+>19980000:20080000|GENSCAN_predicted_CDS_17|2106_bp
+atgtgcaactgggagtgctgcaagtccaggtcgccgattgccaagcgaatggcggccagg
+aagctcctgcagatggaggaggaggagcgccggaggcccaagctggtcatcccgacgcca
+cagagcctcttctaccccttcgaggatgtggaggccatggccaagtacatcgtgagcgtc
+agtcacatcaggccaaagtacggactaatctgcggcagcttcctgagcgacatggtcagc
+atggtggagcagccggtggtcattccctacgaggacatacccaacttccccgacggcatt
+gaaccggactgcagcttcgtcttgggctcggtcatgggagcgcccataatagcgctggtc
+cacagtttccactcctgcgacggctacaacctggccacctgtgcgctgccagtccgcgtg
+atgcagctgtgcggggtaaggaccatcatgctgacctcggaggcagcggccgtggatcat
+ggattcgccctgggcgacattatgctggtccaggaccacataaatgtggtgggcatgatg
+caccagacgccgctggagggtcccagcgatccgcgctttggcagtcgccgattctcgatg
+gtgaacgcttatgacaaggacctgctggagaaggcactcgagattggcaagcggatggga
+atccagaagttcctgcacagcggcgtcttagcctgcctgggagggcccatcctcggcact
+gtggccgaggagcgaatgctgcggacgatggaggtcagtgccgtgggcatgtccctggtg
+cccgaggttatagccgcccaccacggcggcctgaaggtgctcgcctttgtggtaatcagc
+agggtggccagcgacaaggtgagcgaggagggcgataaggacaaggagaaggacactgac
+agggactccaagcaggaaaagcgggagcaggattcccaggagctgactgcaggcctgctc
+cgatctgatcggccgacttatgtactgcatgcacctcgagatctgacgatcgaaaataga
+cttctcgaatccccacccgacttcttctattcggattcctattttcggtgcggccagtgt
+gctgccaacgcggaaatagccacagctgttttcagctgtgcgatcatgcggctagaaagc
+tacattttccccggcctgcaccgatttttcgccgatttcacccggttcctcgtccgatct
+ctcatccgatttcgaccgatttccccgactgagatttcggcctgcggcactacgctaatg
+agttttccaaatgactatgatttaagcagcattcgcggttgcttaagttatggttacaat
+aaacttttaccgaattactggaatctgcgaagcgtacagctgatcgaattaatattgtta
+gtggccgcagccggacaactgaacgcggccagcgacaaacttcaactgaagcaactcgac
+tcgaatcgaatcgcggcgaaacgaaatgaaacgaatcgcaacgaaacgatacgaaacaaa
+acgaaacagctggtaaatgtcgggaaaaagcgacaacagggccaactatttcgtgttttt
+ctttttccgagcaagcacgctgcagtggacacaataaatgaatcacgaaatgcggaaaaa
+acacacaagagcggggcagcgccggaaaatcgggcagccattcgcatccgtaggttgaca
+tttaattgcccggtggttctggaaatggccccgccaaaggccgccagccatcgtccggcg
+gtgcggcgcaagaagtcgggcaccctggtggactccatcctggacaagtacctcaacgtg
+cgcttcttcaagtacctgctcctggagccggccgctctgcccatagttggcctcttcgtg
+ctcctggcggagctggtcatcaacgtggtggtcatccagcgggtgccctacacggagatc
+gactgggtcgcctacatgcaggagtgcgagggcttcctgaacggcaccaccaactacagt
+ctgctgcgcggtgaccccatttcgaatccggaagcatatgcgtgcacctgttgttctttg
+catgctgtggttataactatatttaagcgttctcttactaaggatagcctattcccaact
+agctag
+
+>19980000:20080000|GENSCAN_predicted_peptide_18|193_aa
+MEQLAIGALCSRLQCQSHVCVIRLAVDGDGDGDGDDDEASMRGQKPQEIIRACNSIICFP
+FLATSEEHKHVQSGRVASSNRQMKTKNQTNIICSNCQCFSHSSRGIAITDEKNVLRIQSY
+TYNDPIRSDTIRYDSIRYYTIRGRASCFGAFPVWRLLHFRGSINKEPGENWLFSHCDRCC
+SYQLRLTAIDCDL
+
+>19980000:20080000|GENSCAN_predicted_CDS_18|582_bp
+atggagcagctcgcgattggagcgctgtgcagccgcctacaatgtcagagtcacgtttgt
+gtgattcgccttgctgttgatggcgatggcgatggcgatggtgacgatgacgaggcttcg
+atgcggggccaaaaaccgcaagagatcatccgggcctgtaactctatcatctgttttcca
+tttctagcaacatctgaggagcacaagcacgtgcagagtggaagggtcgccagctcaaac
+cgacaaatgaaaaccaaaaaccagaccaacatcatctgctccaactgccaatgctttagc
+cactcgagtcggggaatcgccatcaccgacgagaagaacgtcctgcggatccagagctac
+acctacaacgatccaatccgctctgatacgatacgatacgattcgattcgatactatacg
+atccgcggacgagcctcctgctttggtgcatttccagtttggcggctgctccactttcgt
+ggctccataaacaaagagccgggcgagaactggttattttcccactgcgatcgctgctgc
+agctaccaactgcgcttaactgcaatcgactgcgacctctga
+
+>19980000:20080000|GENSCAN_predicted_peptide_19|81_aa
+MLCRALPDFWHSAPMALVAMATVARSPPFNKDLSCNQDILHLQAEGGDELMDAEWDAPTP
+ACELHIHKRLTGPLTPDIAAH
+
+>19980000:20080000|GENSCAN_predicted_CDS_19|246_bp
+atgctctgccgagctctgccagatttctggcactcggctcccatggctctggtggccatg
+gctaccgtggctcgcagcccccctttcaataaagatttgagctgcaatcaggatattttg
+catctgcaggccgagggaggtgatgagctgatggatgccgagtgggatgcacccacgccc
+gcgtgtgagcttcatattcataagcggctaactggaccgcttacgccggacatcgcagct
+cattag
