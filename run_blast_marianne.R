@@ -1,8 +1,8 @@
-setwd('/local/data/public/g1/')
-Dmel_n<-'Drosophila_melanogaster.BDGP6.cdna.all.fa'
-Dmel_p<-'Drosophila_melanogaster.BDGP6.pep.all.fa'
+setwd('/home/md799/GI/GI_a2')
+Dmel_n<-'/chromosomes/Drosophila_melanogaster.BDGP6.cdna.all.fa'
+Dmel_p<-'/chromosomes/Drosophila_melanogaster.BDGP6.pep.all.fa'
 Dsim<-'dsim-all-chromosome-r2.02.fasta'
-Dere<-'chromosomes/dere-all-chromosome-r1.05.fasta'
+Dere<-'/chromosomes/dere-all-chromosome-r1.05.fasta'
 Dmoj<-'dmoj-all-gene-r1.04.fasta'
 Dsec<-'dsec-all-gene-r1.3.fasta'
 
@@ -10,10 +10,10 @@ bl_dr<-'/local/data/public/genome_informatics_2018/programs/ncbi-blast-2.5.0+/bi
 
 ##make databases
 # out_db_sim<-system(paste0(bl_dr,'makeblastdb -in ',Dsim,' -dbtype nucl -out dsim_db'),intern=T)
-# out_db_ere<-system(paste0(bl_dr,'makeblastdb -in ',Dere,' -dbtype nucl -out dere_db'),intern=T)
+out_db_ere<-system(paste0(bl_dr,'makeblastdb -in ',Dere,' -dbtype nucl -out dere_db'),intern=T)
 # out_db_moj<-system(paste0(bl_dr,'makeblastdb -in ',Dmoj,' -dbtype nucl -out dmij_db'),intern=T)
 # out_db_sec<-system(paste0(bl_dr,'makeblastdb -in ',Dsec,' -dbtype nucl -out dsec_db'),intern=T)
-# print("Databases created")
+print("Databases created")
 
 
 ##align the genome onto the databases
@@ -25,8 +25,8 @@ bl_dr<-'/local/data/public/genome_informatics_2018/programs/ncbi-blast-2.5.0+/bi
 # print("dsim p alignment done")
 
 #Dere
-#out_ere_n<-system(paste0(bl_dr,'blastn -db dere_db -query ',Dmel_n,' -out out_ere_n -outfmt 6'),intern=T)
-#print("dere n alignment done")
+out_ere_n<-system(paste0(bl_dr,'blastn -db dere_db -query ',Dmel_n,' -out out_ere_n -outfmt 6'),intern=T)
+print("dere n alignment done")
 out_ere_p<-system(paste0(bl_dr,'tblastn -db dere_db -query ',Dmel_p,' -out out_ere_p -outfmt 6'),intern=T)
 print("dere p alignment done")
 
