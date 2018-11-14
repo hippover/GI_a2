@@ -1,8 +1,8 @@
-setwd('/home/md799/GI/GI_a2')
-Dmel_n<-'/chromosomes/Drosophila_melanogaster.BDGP6.cdna.all.fa'
-Dmel_p<-'/chromosomes/Drosophila_melanogaster.BDGP6.pep.all.fa'
+setwd('/home/md799/GI/A2')
+Dmel_n<-'./chromosomes/Drosophila_melanogaster.BDGP6.cdna.all.fa'
+Dmel_p<-'./chromosomes/Drosophila_melanogaster.BDGP6.pep.all.fa'
 Dsim<-'dsim-all-chromosome-r2.02.fasta'
-Dere<-'/chromosomes/dere-all-chromosome-r1.05.fasta'
+Dere<-'./chromosomes/dere-all-chromosome-r1.05.fasta'
 Dmoj<-'dmoj-all-gene-r1.04.fasta'
 Dsec<-'dsec-all-gene-r1.3.fasta'
 
