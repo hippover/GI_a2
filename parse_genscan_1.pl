@@ -6,7 +6,7 @@ use Bio::SeqFeatureI;
 
 #arguments : slice_length, overlap_length,n_slices, outfile
 
-if ($#ARGV != 3){
+if ($#ARGV != 4){
   print "Wrong Arguments\n";
   print "$#ARGV\n";
   foreach(@ARGV){
@@ -27,7 +27,7 @@ printf FILE 'gene_id,tag,gene_start,gene_end,strand,start,end,score';
 print FILE "\n";
 
 for ($i = 1;$i <= @ARGV[2];$i++){
-  my $genscan = Bio::Tools::Genscan->new(-file => "/local/data/public/g1/Genscan/Dsim/slice_$i.txt");
+  my $genscan = Bio::Tools::Genscan->new(-file => "/local/data/public/g1/chromosomes/@ARGV[4]/annotations/slice_$i.txt");
   my $shift = ($i-1)*($slice_length - $overlap_length);
   while($gene = $genscan->next_prediction()) {
       # $gene is an instance of Bio::Tools::Prediction::Gene, which inherits

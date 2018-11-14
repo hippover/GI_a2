@@ -12,7 +12,6 @@ files=list(Dsim=Dsim,Dmoj=Dmoj,Dsec=Dsec,Dere=Dere)
 
 genscan <- '/local/data/public/genome_informatics_2018/programs/genscan/'
 setwd('/local/data/public/g1/')
-system()
 
 for (j in 1:length(files)){
   print("----------------------")
@@ -43,7 +42,7 @@ for (j in 1:length(files)){
                   ,intern=TRUE)
     if (i %% 10 == 0) print(paste("ran genscan on slice",i,"over",n_slices))
   
-    out_file <- file(paste("Genscan/",species,"/slice_",i,".txt",sep=""),open="w")
+    out_file <- file(paste("chromosomes/",species,"/annotations/slice_",i,".txt",sep=""),open="w")
     write(outex,out_file)
     close(out_file)
   }
@@ -56,12 +55,14 @@ for (j in 1:length(files)){
                seq_length,
                seq_overlap,
                n_slices,
-               paste0('/local/data/public/g1/Genscan/',species,'_genes_temp.csv')))
+               paste0('/local/data/public/g1/Genscan/',species,'_genes_temp.csv'),
+              species))
   perl<-system(paste("perl parse_genscan_1.pl",
                      seq_length,
                      seq_overlap,
                      3,#n_slices,
-                     paste0('/local/data/public/g1/Genscan/',species,'_genes_temp.csv'))
+                     paste0('/local/data/public/g1/Genscan/',species,'_genes_temp.csv'),
+                     species)
                ,intern=TRUE)
   print("Perl is done")
   
