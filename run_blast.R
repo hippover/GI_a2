@@ -51,7 +51,7 @@ find_annotation_blast<-function(genome_file,blast_file){
   genome<-read.fasta(genome_file)
   annotations <- vector(mode="list", length=length(genome))
   names(annotations)<-names(genome)
-  for(i in 1:length(names(sim_genome))){
+  for(i in 1:length(genome)){
     annotations[[i]]<-rep(0,length(genome[[i]]))
   }
   for (l in 1:length(out)){
