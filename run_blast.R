@@ -1,9 +1,9 @@
 setwd('/local/data/public/g1/')
-Dmel_n<-'Drosophila_melanogaster.BDGP6.cdna.all.fa'
-Dmel_p<-'Drosophila_melanogaster.BDGP6.pep.all.fa'
+Dmel_n<-'/chromosomes/Drosophila_melanogaster.BDGP6.cdna.all.fa'
+Dmel_p<-'/chromosomes/Drosophila_melanogaster.BDGP6.pep.all.fa'
 Dsim<-'dsim-all-chromosome-r2.02.fasta'
 Dere<-'dere-all-gene-r1.05.fasta'
-Dmoj<-'dmoj-all-gene-r1.04.fasta'
+Dmoj<-'/chromosomes/dmoj-all-chromosome-r1.04.fasta'
 Dsec<-'dsec-all-gene-r1.3.fasta'
 
 bl_dr<-'/local/data/public/genome_informatics_2018/programs/ncbi-blast-2.5.0+/bin/'
